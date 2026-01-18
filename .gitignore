@@ -1,0 +1,12 @@
+.bundle
+.sass-cache
+/vendor/bundle
+/node_modules/
+/public/assets
+/tmp/
+/log/
+*.log
+.DS_Store
+.project
+.idea
+.vscode

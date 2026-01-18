@@ -1,6 +1,6 @@
 plugins:
   yoomoney_enabled:
-    default: false
+    default: true
     client: true
   yoomoney_wallet_id:
     default: ''

@@ -23,3 +23,15 @@
     }
   }
 }
+
+.btn.yoomoney-header-button {
+  background-color: #ffdb4d;
+  color: #000;
+  &:hover {
+    background-color: #ffd633;
+    color: #000;
+  }
+  .d-icon {
+    color: #000;
+  }
+}

@@ -1,0 +1,25 @@
+.yoomoney-payment-container {
+  margin: 20px 0;
+  padding: 15px;
+  border: 1px solid var(--primary-low);
+  border-radius: 8px;
+  background: var(--secondary);
+  .yoomoney-btn {
+    background-color: #ffdb4d;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    &:hover {
+      background-color: #ffd633;
+    }
+    .d-icon {
+      margin-right: 8px;
+    }
+  }
+}

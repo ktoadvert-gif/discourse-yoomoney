@@ -1,0 +1,17 @@
+plugins:
+  yoomoney_enabled:
+    default: false
+    client: true
+  yoomoney_wallet_id:
+    default: ''
+    client: true
+  yoomoney_notification_secret:
+    default: ''
+  yoomoney_target_group:
+    default: 'trust_level_1'
+  yoomoney_payment_amount:
+    default: 100
+    client: true
+  yoomoney_payment_currency:
+    default: 'RUB'
+    client: true

@@ -1,0 +1,14 @@
+ru:
+  site_settings:
+    yoomoney_enabled: 'Включить оплату через ЮMoney'
+    yoomoney_wallet_id: 'Номер кошелька ЮMoney'
+    yoomoney_notification_secret: 'Секретное слово для уведомлений'
+    yoomoney_target_group: 'Имя группы для добавления пользователя после оплаты'
+    yoomoney_payment_amount: 'Сумма платежа по умолчанию'
+    yoomoney_payment_currency: 'Валюта платежа (RUB)'
+  js:
+    yoomoney:
+      button_text: 'Оплатить через ЮMoney'
+      title: 'Улучшить аккаунт'
+      description: 'Заплатите %{amount} %{currency} для вступления в группу.'
+      success_message: 'Платеж инициирован! Пожалуйста, завершите транзакцию на сайте ЮMoney.'

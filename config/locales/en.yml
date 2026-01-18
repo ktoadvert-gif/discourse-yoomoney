@@ -1,0 +1,14 @@
+en:
+  site_settings:
+    yoomoney_enabled: 'Enable YooMoney payments'
+    yoomoney_wallet_id: 'Your YooMoney Wallet ID'
+    yoomoney_notification_secret: 'Your YooMoney Notification Secret'
+    yoomoney_target_group: 'Group name to add users to after payment'
+    yoomoney_payment_amount: 'Default payment amount'
+    yoomoney_payment_currency: 'Payment currency (RUB)'
+  js:
+    yoomoney:
+      button_text: 'Pay via YooMoney'
+      title: 'Upgrade Account'
+      description: 'Pay %{amount} %{currency} to join the group.'
+      success_message: 'Payment initiated! Please complete the transaction on YooMoney site.'
